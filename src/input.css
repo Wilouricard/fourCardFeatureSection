@@ -2,5 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
 
 /* npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch */
