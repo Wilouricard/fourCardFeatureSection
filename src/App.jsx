@@ -12,7 +12,7 @@ function App() {
     <main className="flex flex-col mx-10 my-10">
       <Header />
       <div className="flex flex-col lg:flex-row">
-        <div className="flex flex-col bg-white mb-8 p-6 rounded-lg border-t-4 border-Cyan shadow-xl hover:border-Red lg:max-w-[325px] max-h-[233px] lg:mr-8 lg:mt-32">
+        <div className="flex flex-col bg-white mb-8 p-6 rounded-lg border-t-4 border-Cyan shadow-xl hover:border-Red lg:max-w-[325px] h-[233px] lg:mr-8 lg:mt-32">
           <h1 className="font-semibold text-Very-Dark-Blue pb-2 text-lg">
             Supervisor
           </h1>
@@ -26,7 +26,7 @@ function App() {
           />
         </div>
         <div className="flex flex-col">
-          <div className="flex flex-col bg-white mb-8 p-6 rounded-lg border-t-4 border-Red shadow-xl hover:border-Red lg:max-w-[325px] max-h-[233px]">
+          <div className="flex flex-col bg-white mb-8 p-6 rounded-lg border-t-4 border-Red shadow-xl hover:border-Red lg:max-w-[325px] h-[233px]">
             <h1 className="font-semibold text-Very-Dark-Blue pb-2 text-lg">
               Team Builder
             </h1>
@@ -41,7 +41,7 @@ function App() {
               className="w-14 self-end"
             />
           </div>
-          <div className="flex flex-col bg-white mb-8 p-6 rounded-lg border-t-4 border-y-Orange shadow-xl hover:border-Red lg:max-w-[325px] max-h-[233px]">
+          <div className="flex flex-col bg-white mb-8 p-6 rounded-lg border-t-4 border-y-Orange shadow-xl hover:border-Red lg:max-w-[325px] h-[233px]">
             <h1 className="font-semibold text-Very-Dark-Blue pb-2 text-lg">
               Karma
             </h1>
@@ -55,7 +55,7 @@ function App() {
             />
           </div>
         </div>
-        <div className="flex flex-col bg-white mb-8 p-6 rounded-lg border-t-4 border-Blue shadow-xl hover:border-Red lg:max-w-[325px] max-h-[233px] lg:ml-8 lg:mt-32">
+        <div className="flex flex-col bg-white mb-8 p-6 rounded-lg border-t-4 border-Blue shadow-xl hover:border-Red lg:max-w-[325px] h-[233px] lg:ml-8 lg:mt-32">
           <h1 className="font-semibold text-Very-Dark-Blue pb-2 text-lg">
             Calculator
           </h1>
