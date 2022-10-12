@@ -20,7 +20,7 @@ function App() {
             Monitors activity to identify project roadblocks
           </p>
           <img
-            src="../images/icon-supervisor.svg"
+            src=".\src\assets\icon-supervisor.svg"
             alt=""
             className="w-14 self-end"
           />
@@ -31,12 +31,11 @@ function App() {
               Team Builder
             </h1>
             <p className="text-sm text-Grayish-Blue pb-12">
-              {" "}
               Scans our talent network to create the optimal team for your
               project
             </p>
             <img
-              src="../images/icon-team-builder.svg"
+              src=".\src\assets\icon-team-builder.svg"
               alt=""
               className="w-14 self-end"
             />
@@ -49,7 +48,7 @@ function App() {
               Regularly evaluates our talent to ensure quality
             </p>
             <img
-              src="../images/icon-karma.svg"
+              src=".\src\assets\icon-karma.svg"
               alt=""
               className="w-14 self-end"
             />
@@ -63,7 +62,7 @@ function App() {
             Uses data from past projects to provide better delivery estimates
           </p>
           <img
-            src="../images/icon-calculator.svg"
+            src=".\src\assets\icon-calculator.svg"
             alt=""
             className="w-14 self-end"
           />
